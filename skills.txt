@@ -4,7 +4,7 @@
 4) Test design
 5) Client-server architecture
 6) HTTP/HTTPS
-7)Jmeter
+7) Jmeter
 8) Mobile testing
 
 
